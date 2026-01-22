@@ -2,14 +2,14 @@
 ### 🚀 Full-Stack & Android Software Developer | Open to Opportunities
 
 <!-- ===== TOP BADGES (ATS + RECRUITER FRIENDLY) ===== -->
-![Profile Views](https://komarev.com/ghpvc/?username=DerrickOrori&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/DerrickOrori?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/DerrickOrori?label=Total%20Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=DMOrori&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/DMOrori?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/DMOrori?label=Total%20Stars&style=social)
 
 <!-- ===== PROFESSIONAL LINKS ===== -->
 [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://your-cv-link-here.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome)](https://your-portfolio-link-here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome)](https://portfolioo11o.netlify.app/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-orori-2316413a1/)
 
 ---
 
