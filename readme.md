@@ -114,13 +114,13 @@ Skilled in building **scalable, maintainable, and user-focused applications** wi
 ## 📊 GitHub Performance
 
 ### 📈 Stats
-![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerrickOrori&show_icons=true&theme=tokyonight)
+![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DMOrori&show_icons=true&theme=tokyonight)
 
 ### 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DerrickOrori&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/DMOrori&theme=tokyonight)
 
 ### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickOrori&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DMOrori&layout=compact&theme=tokyonight)
 
 ---
 
