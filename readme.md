@@ -126,9 +126,9 @@ Skilled in building **scalable, maintainable, and user-focused applications** wi
 
 ## 📫 Contact & Links
 
-- 🔗 GitHub: https://github.com/DerrickOrori  
-- 🌐 Portfolio: https://your-portfolio-link-here  
-- 📧 Email: yourprofessionalemail@email.com  
+- 🔗 GitHub: https://github.com/DMOrori  
+- 🌐 Portfolio: https://portfolioo11o.netlify.app/ 
+- 📧 Email: derrickorori@gmail.com 
 
 💬 *Available for interviews, collaboration, and technical discussions.*
 
