@@ -1,29 +1,48 @@
 # 👋 Hi, I'm Derrick Orori  
-### 🚀 Android | Web | Full-Stack Software Developer
+### 🚀 Full-Stack & Android Software Developer | Open to Opportunities
 
+<!-- ===== TOP BADGES (ATS + RECRUITER FRIENDLY) ===== -->
 ![Profile Views](https://komarev.com/ghpvc/?username=DerrickOrori&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/DerrickOrori?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/DerrickOrori?label=Total%20Stars&style=social)
 
-💡 **Results-driven developer** focused on building scalable, user-centered applications for web and mobile platforms.  
-I turn ideas into reliable software solutions and enjoy working on real-world problems.
+<!-- ===== PROFESSIONAL LINKS ===== -->
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://your-cv-link-here.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome)](https://your-portfolio-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 
-📍 Based in **Kenya** | 🌍 Open to **Remote / On-site Opportunities**
+---
+
+## 🎯 Professional Summary (ATS Optimized)
+
+Results-driven **Software Developer** with hands-on experience in **Android (Kotlin)**, **Web Development (React, JavaScript)**, and **Backend Systems (PHP, MySQL)**.  
+Skilled in building **scalable, maintainable, and user-focused applications** with clean architecture and modern development tools.
+
+📍 Based in **Kenya**  
+🌍 Open to **Remote, Hybrid, and On-site roles**  
+💼 Seeking **Internship | Junior Developer | Entry-Level Software Engineer | Freelance**
+
+---
+
+## 🧭 Role Focus (Recruiter-Friendly)
+
+✔ **Primary Focus:** Full-Stack Development  
+✔ **Strong Secondary Focus:** Android Development (Kotlin)
+
+> I am flexible and can be positioned as:
+- ✅ **Full-Stack Developer**
+- ✅ **Android Developer**
+- ✅ **Junior Software Engineer**
 
 ---
 
 ## 🔥 What I Bring to the Table (For Recruiters)
 
-✅ Strong foundation in **Android (Kotlin)** and **Web Development**  
-✅ Experience building **real projects**, not just tutorials  
-✅ Clean, readable, and maintainable code  
-✅ Ability to learn fast and adapt to new technologies  
-✅ Team-friendly with strong problem-solving skills  
-
-📌 **Currently open to:**  
-- Internships  
-- Junior / Entry-Level Developer Roles  
-- Freelance & Contract Work  
+✅ Strong foundation in **Android (Kotlin)** and **Web Technologies**  
+✅ Real-world project experience (not just tutorials)  
+✅ Clean, readable, maintainable code  
+✅ Fast learner with strong debugging & problem-solving skills  
+✅ Comfortable working independently or in teams  
 
 ---
 
@@ -33,7 +52,7 @@ I turn ideas into reliable software solutions and enjoy working on real-world pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net)
 
 ---
@@ -49,6 +68,7 @@ I turn ideas into reliable software solutions and enjoy working on real-world pr
 ### 📱 Android Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge)
 
 ---
@@ -68,23 +88,26 @@ I turn ideas into reliable software solutions and enjoy working on real-world pr
 
 ---
 
-## 🏆 Featured Projects
+## 📌 Pinned Projects (Add These to GitHub Pins)
 
-🚀 **Personal Portfolio Website**  
-> Responsive, modern portfolio built with React & CSS  
-✔ Smooth animations  
-✔ Dark mode  
-✔ Mobile-first design  
+### 🔹 Personal Portfolio Website
+**Tech:** React, CSS, JavaScript  
+✔ Responsive & mobile-first  
+✔ Dark mode & animations  
+✔ Professional UI/UX  
 
-📱 **Android Applications (Kotlin)**  
-> Multiple Android apps using XML layouts and Kotlin  
+### 🔹 Android Applications Suite
+**Tech:** Kotlin, XML, Android Studio  
 ✔ Clean architecture  
-✔ Practical UI designs  
+✔ Practical real-world apps  
+✔ Optimized UI performance  
 
-🧮 **Student & Utility Systems**  
-> Academic & real-world systems built with PHP, MySQL & VB.NET  
+### 🔹 Student & Utility Management Systems
+**Tech:** PHP, MySQL, VB.NET  
+✔ CRUD systems  
+✔ Academic & real-life use cases  
 
-👉 **Explore my repositories to see live code and implementations.**
+> 📌 *Pin these repositories on your GitHub profile for maximum recruiter impact.*
 
 ---
 
@@ -104,10 +127,10 @@ I turn ideas into reliable software solutions and enjoy working on real-world pr
 ## 📫 Contact & Links
 
 - 🔗 GitHub: https://github.com/DerrickOrori  
-- 🌐 Portfolio: **Coming Soon**  
-- 📧 Email: **(Add your professional email here)**  
+- 🌐 Portfolio: https://your-portfolio-link-here  
+- 📧 Email: yourprofessionalemail@email.com  
 
-💬 *I’m always open to discussions, collaborations, and new opportunities.*
+💬 *Available for interviews, collaboration, and technical discussions.*
 
 ---
 
