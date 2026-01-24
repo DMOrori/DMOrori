@@ -46,10 +46,8 @@ Skilled in building **scalable, maintainable, and user-focused software solution
 
 ### 🌐 Web Design & Development
 **Frontend**
-- HTML5, CSS3, Tailwind CSS
-- JavaScript
-- React
-- Next.js
+- HTML5, CSS3, Tailwind CSS  - Next.js
+- JavaScript                 - React
 
 **Backend**
 - Node.js
