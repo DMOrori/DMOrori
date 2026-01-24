@@ -50,7 +50,7 @@ Skilled in building **scalable, maintainable, and user-focused software solution
 <tr>
 <td align="center"><b>C</b></td>
 <td align="center"><b>C++</b></td>
-<td align="center"><b>JavaScript</b></td>
+<td align="center"><b>JavaScript</b></td> <br />
 <td align="center"><b>PHP</b></td>
 <td align="center"><b>Python</b></td>
 <td align="center"><b>Kotlin</b></td>
