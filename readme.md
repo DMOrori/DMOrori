@@ -21,7 +21,7 @@
 
 ## 🎯 Professional Summary (ATS Optimized)
 
-Results-driven **Software Developer** with hands-on experience in **Android development**, **Full-Stack web development**, and **desktop applications**.  
+Results-driven **Software Developer** with hands-on experience in **Android development**, **Full-Stack web development**, **backend systems**, and **desktop applications**.  
 Skilled in building **scalable, maintainable, and user-focused software solutions** using modern programming languages, frameworks, and databases.
 
 📍 **Kenya**  
@@ -43,62 +43,94 @@ Skilled in building **scalable, maintainable, and user-focused software solution
 
 ## 🧠 Core Technical Skills
 
+<div align="center">
+
 ### 💻 Programming Languages
-- C, C++
-- JavaScript
-- PHP
-- Python
-- Kotlin
-- VB.NET
+<table>
+<tr>
+<td align="center"><b>C</b></td>
+<td align="center"><b>C++</b></td>
+<td align="center"><b>JavaScript</b></td>
+<td align="center"><b>PHP</b></td>
+<td align="center"><b>Python</b></td>
+<td align="center"><b>Kotlin</b></td>
+<td align="center"><b>VB.NET</b></td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Web Design & Development
-
-**Frontend**
-- HTML5, CSS3, Tailwind CSS
-- JavaScript
-- React
-- Next.js
-
-**Backend**
-- Node.js
-- Express.js
-- PHP
-- Laravel
-- RESTful APIs
+<table>
+<tr>
+<td align="center"><b>HTML5</b></td>
+<td align="center"><b>CSS3</b></td>
+<td align="center"><b>Tailwind CSS</b></td>
+<td align="center"><b>JavaScript</b></td>
+<td align="center"><b>React</b></td>
+<td align="center"><b>Next.js</b></td>
+</tr>
+<tr>
+<td align="center"><b>Node.js</b></td>
+<td align="center"><b>Express.js</b></td>
+<td align="center"><b>PHP</b></td>
+<td align="center"><b>Laravel</b></td>
+<td align="center"><b>REST APIs</b></td>
+<td align="center"><b>JSON</b></td>
+</tr>
+</table>
 
 ---
 
 ### 📱 Mobile Application Development
-- Android (Kotlin)
-- Flutter
-- React Native
-- XML Layouts
-- Material Design
+<table>
+<tr>
+<td align="center"><b>Android (Kotlin)</b></td>
+<td align="center"><b>Flutter</b></td>
+<td align="center"><b>React Native</b></td>
+<td align="center"><b>XML Layouts</b></td>
+<td align="center"><b>Material Design</b></td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
-- MySQL
-- SQL
-- MongoDB
-- Mongoose
-- SQLite
+<table>
+<tr>
+<td align="center"><b>MySQL</b></td>
+<td align="center"><b>SQL</b></td>
+<td align="center"><b>MongoDB</b></td>
+<td align="center"><b>Mongoose</b></td>
+<td align="center"><b>SQLite</b></td>
+</tr>
+</table>
 
 ---
 
 ### 🖥️ Desktop Applications
-- VB.NET (Windows Forms)
+<table>
+<tr>
+<td align="center"><b>VB.NET</b></td>
+<td align="center"><b>Windows Forms</b></td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ Tools & Workflow
-- Git & GitHub
-- Android Studio
-- VS Code
-- Postman
-- JSON & REST APIs
+<table>
+<tr>
+<td align="center"><b>Git</b></td>
+<td align="center"><b>GitHub</b></td>
+<td align="center"><b>Android Studio</b></td>
+<td align="center"><b>VS Code</b></td>
+<td align="center"><b>Postman</b></td>
+<td align="center"><b>REST APIs</b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
