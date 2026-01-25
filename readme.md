@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=950&lines=Hey+there%2C+I'm+Derrick+Orori+%F0%9F%91%8B;Software+Developer+%7C+Android+%7C+Web+%7C+Backend;Building+Scalable+and+User-Focused+Solutions+from+Kenya" alt="Typing SVG" />
 </div>
@@ -5,6 +6,10 @@
 <h1 align="center">🚀 Turning Ideas into Real-World Software</h1>
 
 <div align="center">
+=======
+# 👋 Hi, I'm Derrick Orori  
+### Software Developer skilled in Android, Web & Backend. Kotlin, React, Node, PHP, MySQL, MongoDB. Open to internships & junior roles.
+>>>>>>> 94f7ebdbe18830c045430052e1d032259fcec3c7
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DMOrori&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/DMOrori?label=Followers&style=social)
