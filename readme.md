@@ -9,7 +9,6 @@
 
 # 👋 Hi, I'm Derrick Orori  
 ### Software Developer skilled in Android, Web & Backend. Kotlin, React, Node, PHP, MySQL, MongoDB. Open to internships & junior roles.
->>>>>>> 94f7ebdbe18830c045430052e1d032259fcec3c7
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DMOrori&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/DMOrori?label=Followers&style=social)
